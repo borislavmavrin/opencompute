@@ -27,3 +27,4 @@ Ubuntu 14.04.2 kernel (3.16) has to be < 3.19
 ## MAAS
  1. https://insights.ubuntu.com/2016/01/23/maas-setup-deploying-openstack-on-maas-1-9-with-juju/
  2. https://paste.ubuntu.com/14567573/
+ 3. https://help.ubuntu.com/community/Internet/ConnectionSharing
